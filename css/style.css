@@ -1,0 +1,59 @@
+h2{
+	color: black;
+}
+
+
+.c_prev {
+    left: 88%;
+
+}
+.c_next {
+    right: 2%;
+}
+.c_prev, .c_next{
+    top: 85%;   
+    width: 5%;
+}
+.c_ind{
+	right: 90%;
+    bottom: 30%;
+    margin-left: 5%;
+    display: block;
+}
+.c_ind li{
+	width: 15px !important ;
+	height: 15px !important ;
+}
+.banner{
+	background-image: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slider{
+	background-color: rgba(1, 1, 1, .4);
+	color: white;
+	padding: 70px;
+}
+.slider h1{
+ font-size: 30px;
+ margin-bottom: 30px;
+ margin-top: 50px;
+}
+.slider p{
+	font-size: 20px;
+	margin-bottom: 30px;
+	
+}
+.slider button{
+	margin-bottom: 100px;
+	
+}
+.c_ind_r{
+	bottom: 50px;
+}
+.c_ind_r button{
+	width: 15px !important;
+	height: 15px !important;
+	border-radius: 50%;
+}
